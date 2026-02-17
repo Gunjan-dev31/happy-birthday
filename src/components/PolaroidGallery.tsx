@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 const images = [
   {
     id: 1,
-    url: "https://images.unsplash.com/photo-1513151233558-d860c5398176?q=80&w=1000&auto=format&fit=crop",
+    url: "src/components/images/p1.jpeg",
     caption: "Party Vibes! 🎉",
     backText: "Remember this night? We danced until our feet hurt! 💃",
     rotate: -6,
@@ -12,7 +12,7 @@ const images = [
   },
   {
     id: 2,
-    url: "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=1000&auto=format&fit=crop",
+    url: "src/components/images/p2.jpeg",
     caption: "Sparkle & Shine ✨",
     backText: "You were glowing brighter than the fireworks! 🎆",
     rotate: 4,
@@ -20,7 +20,7 @@ const images = [
   },
   {
     id: 3,
-    url: "https://images.unsplash.com/photo-1530103862676-de3c9a59af38?q=80&w=1000&auto=format&fit=crop",
+    url: "src/components/images/p3.jpeg",
     caption: "Best Friends Forever 💖",
     backText: "Through thick and thin, always by your side. 👯‍♀️",
     rotate: -3,
@@ -28,7 +28,7 @@ const images = [
   },
   {
     id: 4,
-    url: "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?q=80&w=1000&auto=format&fit=crop",
+    url: "src/components/images/p4.jpeg",
     caption: "Crazy Times 🤪",
     backText: "Let's promise to never stop being this crazy! 🤪",
     rotate: 5,
